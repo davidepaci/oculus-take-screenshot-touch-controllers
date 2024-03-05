@@ -1,0 +1,18 @@
+/// OCULUS SCREENSHOT TOOL BY BIOSIGNAL FOR THE VR DISCORD ///
+Please read this carefully and you'll be good to go.
+
+HOW TO SET UP:
+- Install AHK (AutoHotKey) <- You're probably already here!
+- Right-click 'oculus-mirror-take-screenshot.ahk' and click on Edit Script
+- Edit the global variables at the top with your Oculus folder path and where you want your screenshots to be saved.
+- Save 
+- Right-click 'oculus-mirror-take-screenshot.ahk' and click on Compile Script
+
+HOW TO RUN:
+Simply run the compiled file everytime you need it.
+
+USAGE:
+Simply pull both Trigger buttons then swiftly press the Thumbsticks and release again. Pictures are saved as PNG.
+
+HOW TO CLOSE:
+Tray > 'H' icon > Exit/Pause Script
